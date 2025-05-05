@@ -1,3 +1,12 @@
+/* 
+    Created by: Arief F-sa Wijaya
+    How to Run? (pilih salah satu opsi):
+    1. cmd            : ./run.sh
+       powershell/git : . run.sh
+    
+    2. compile manual : gcc -o main -Iinclude main.c lib/nbtree.c
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "nbtree.h"
